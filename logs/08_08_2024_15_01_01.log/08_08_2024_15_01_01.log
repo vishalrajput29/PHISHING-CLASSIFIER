@@ -1,0 +1,28 @@
+[ 2024-08-08 15:01:07,678 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-08-08 15:01:07,693 ] 224 werkzeug - INFO -  * Debugger PIN: 114-379-799
+[ 2024-08-08 15:01:11,338 ] 67 root - INFO - Entered initiate_data_ingestion method of Data_Ingestion class
+[ 2024-08-08 15:01:11,338 ] 37 root - INFO - Exporting data from mongodb
+[ 2024-08-08 15:01:11,340 ] 44 root - INFO - Saving exported data into feature store file path: artifacts\08_08_2024_15_01_04\data_ingestion
+[ 2024-08-08 15:01:18,635 ] 46 root - INFO - Shape of phising_08012020_120000: (11055, 31)
+[ 2024-08-08 15:01:18,773 ] 72 root - INFO - Got the data from mongodb
+[ 2024-08-08 15:01:18,774 ] 74 root - INFO - Exited initiate_data_ingestion method of Data_Ingestion class
+[ 2024-08-08 15:01:18,775 ] 250 root - INFO - Entered initiate_data_validation method of Data_Validation class
+[ 2024-08-08 15:01:18,775 ] 253 root - INFO - Initiated data validation for the dataset
+[ 2024-08-08 15:01:18,922 ] 75 root - INFO - Entered initiate_data_transformation method of Data_Transformation class
+[ 2024-08-08 15:01:18,980 ] 104 root - INFO - Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+[ 2024-08-08 15:01:19,075 ] 38 root - INFO - Entered the save_object method of MainUtils class
+[ 2024-08-08 15:01:19,080 ] 45 root - INFO - Exited the save_object method of MainUtils class
+[ 2024-08-08 15:01:19,082 ] 167 root - INFO - Splitting training and testing input and target feature
+[ 2024-08-08 15:01:19,083 ] 169 root - INFO - Extracting model config file path
+[ 2024-08-08 15:01:19,083 ] 52 root - INFO - Entered the load_object method of MainUtils class
+[ 2024-08-08 15:01:19,096 ] 58 root - INFO - Exited the load_object method of MainUtils class
+[ 2024-08-08 15:01:19,096 ] 173 root - INFO - Extracting model config file path
+[ 2024-08-08 15:06:06,332 ] 208 root - INFO - Best found model on both training and testing dataset
+[ 2024-08-08 15:06:06,333 ] 215 root - INFO - Saving model at path: artifacts\08_08_2024_15_01_04\model_trainer\trained_model\model.pkl
+[ 2024-08-08 15:06:06,334 ] 38 root - INFO - Entered the save_object method of MainUtils class
+[ 2024-08-08 15:06:06,350 ] 45 root - INFO - Exited the save_object method of MainUtils class
+[ 2024-08-08 15:06:09,845 ] 224 werkzeug - INFO - 127.0.0.1 - - [08/Aug/2024 15:06:09] "[35m[1mGET /train HTTP/1.1[0m" 500 -
+[ 2024-08-08 15:06:10,215 ] 224 werkzeug - INFO - 127.0.0.1 - - [08/Aug/2024 15:06:10] "[36mGET /train?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-08-08 15:06:10,224 ] 224 werkzeug - INFO - 127.0.0.1 - - [08/Aug/2024 15:06:10] "[36mGET /train?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-08-08 15:06:10,472 ] 224 werkzeug - INFO - 127.0.0.1 - - [08/Aug/2024 15:06:10] "[36mGET /train?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-08-08 15:06:10,611 ] 224 werkzeug - INFO - 127.0.0.1 - - [08/Aug/2024 15:06:10] "[36mGET /train?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

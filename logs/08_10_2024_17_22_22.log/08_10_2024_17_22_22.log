@@ -1,0 +1,10 @@
+[ 2024-08-10 17:22:27,213 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-08-10 17:22:27,225 ] 224 werkzeug - INFO -  * Debugger PIN: 114-379-799
+[ 2024-08-10 17:22:30,723 ] 67 root - INFO - Entered initiate_data_ingestion method of Data_Ingestion class
+[ 2024-08-10 17:22:30,723 ] 37 root - INFO - Exporting data from mongodb
+[ 2024-08-10 17:22:30,726 ] 44 root - INFO - Saving exported data into feature store file path: artifacts\08_10_2024_17_22_24\data_ingestion
+[ 2024-08-10 17:22:30,804 ] 224 werkzeug - INFO - 127.0.0.1 - - [10/Aug/2024 17:22:30] "[35m[1mGET /train HTTP/1.1[0m" 500 -
+[ 2024-08-10 17:22:30,868 ] 224 werkzeug - INFO - 127.0.0.1 - - [10/Aug/2024 17:22:30] "[36mGET /train?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-08-10 17:22:30,871 ] 224 werkzeug - INFO - 127.0.0.1 - - [10/Aug/2024 17:22:30] "[36mGET /train?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-08-10 17:22:31,277 ] 224 werkzeug - INFO - 127.0.0.1 - - [10/Aug/2024 17:22:31] "[36mGET /train?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-08-10 17:22:31,548 ] 224 werkzeug - INFO - 127.0.0.1 - - [10/Aug/2024 17:22:31] "[36mGET /train?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

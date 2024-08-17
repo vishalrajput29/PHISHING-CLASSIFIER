@@ -1,0 +1,21 @@
+[ 2024-08-16 17:28:18,425 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-08-16 17:28:18,437 ] 224 werkzeug - INFO -  * Debugger PIN: 114-379-799
+[ 2024-08-16 17:28:50,354 ] 67 root - INFO - Entered initiate_data_ingestion method of Data_Ingestion class
+[ 2024-08-16 17:28:50,354 ] 37 root - INFO - Exporting data from mongodb
+[ 2024-08-16 17:28:50,355 ] 44 root - INFO - Saving exported data into feature store file path: artifacts\08_16_2024_17_28_16\data_ingestion
+[ 2024-08-16 17:28:50,432 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Aug/2024 17:28:50] "[35m[1mGET /train HTTP/1.1[0m" 500 -
+[ 2024-08-16 17:28:50,461 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Aug/2024 17:28:50] "[36mGET /train?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-08-16 17:28:50,607 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Aug/2024 17:28:50] "[36mGET /train?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-08-16 17:28:51,309 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Aug/2024 17:28:51] "[36mGET /train?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-08-16 17:28:51,356 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Aug/2024 17:28:51] "[36mGET /train?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-08-16 17:28:58,756 ] 67 root - INFO - Entered initiate_data_ingestion method of Data_Ingestion class
+[ 2024-08-16 17:28:58,757 ] 37 root - INFO - Exporting data from mongodb
+[ 2024-08-16 17:28:58,757 ] 44 root - INFO - Saving exported data into feature store file path: artifacts\08_16_2024_17_28_16\data_ingestion
+[ 2024-08-16 17:28:58,832 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Aug/2024 17:28:58] "[35m[1mGET /train HTTP/1.1[0m" 500 -
+[ 2024-08-16 17:28:58,875 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Aug/2024 17:28:58] "[36mGET /train?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-08-16 17:28:59,016 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Aug/2024 17:28:59] "[36mGET /train?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-08-16 17:28:59,370 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Aug/2024 17:28:59] "[36mGET /train?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-08-16 17:28:59,625 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Aug/2024 17:28:59] "[36mGET /train?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-08-16 17:57:49,317 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Aug/2024 17:57:49] "[36mGET /train?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-08-16 17:57:49,398 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Aug/2024 17:57:49] "[36mGET /train?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-08-16 17:57:49,621 ] 224 werkzeug - INFO - 127.0.0.1 - - [16/Aug/2024 17:57:49] "[36mGET /train?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
